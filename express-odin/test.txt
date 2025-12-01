@@ -1,0 +1,5 @@
+File System
+
+    First, take a look at the fs module that we use heavily for working with files in Node.
+    Then, let’s start writing files with Node.
+    Finally, we’ll learn how to read files with Node.
